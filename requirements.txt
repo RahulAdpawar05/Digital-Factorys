@@ -1,0 +1,8 @@
+Flask
+sentence-transformers
+langchain
+langchain-community
+langchain_groq
+faiss-cpu
+pypdf
+gunicorn
